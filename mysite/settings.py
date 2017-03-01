@@ -25,7 +25,7 @@ SECRET_KEY = 'p8_3n^aw+c-cu8pc(c)u+zm!3kb_^)83=_mcy$%vwtbh5$cmnt'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'amitvnit.pythonanywhere.com']
 
 
 # Application definition
